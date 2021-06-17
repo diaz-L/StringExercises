@@ -11,10 +11,10 @@ namespace ex4
     {
       string num1 = "17", num2 = "27.99", num3 = "", num4 = "abc";
 
-      Console.WriteLine(ToInt(num1));
-      Console.WriteLine(ToInt(num2));
       try
       {
+        Console.WriteLine(ToInt(num1));
+        Console.WriteLine(ToInt(num2));
         Console.WriteLine(ToInt(num3));
         Console.WriteLine(ToInt(num4));
       }
