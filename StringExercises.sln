@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex7", "ex7\ex7.csproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex8", "ex8\ex8.csproj", "{DE56B554-1F56-42DB-8611-3EA19C683C26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex9", "ex9\ex9.csproj", "{879A9DC7-7832-4364-B093-810D8E1B437A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,5 +130,17 @@ Global
 		{DE56B554-1F56-42DB-8611-3EA19C683C26}.Release|x64.Build.0 = Release|Any CPU
 		{DE56B554-1F56-42DB-8611-3EA19C683C26}.Release|x86.ActiveCfg = Release|Any CPU
 		{DE56B554-1F56-42DB-8611-3EA19C683C26}.Release|x86.Build.0 = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|x64.Build.0 = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Debug|x86.Build.0 = Debug|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|x64.ActiveCfg = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|x64.Build.0 = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|x86.ActiveCfg = Release|Any CPU
+		{879A9DC7-7832-4364-B093-810D8E1B437A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
