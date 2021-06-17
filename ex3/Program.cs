@@ -9,17 +9,17 @@ namespace ex3
     {
         static void Main(string[] args)
         {
-				string s1 = "ehlo cruel world", s2 = "goodbye";
+		string s1 = "ehlo cruel world", s2 = "goodbye";
 				
-				Console.WriteLine($"s1 length: {Length(s1)}");
-				Console.WriteLine($"s2 length: {Length(s2)}");
+		Console.WriteLine($"s1 length: {Length(s1)}");
+		Console.WriteLine($"s2 length: {Length(s2)}");
         }
 
-			static int Length(string str)
-			{
-				if (str.Length == 0) return 0;
+	static int Length(string str)
+	{
+		if (str.Length == 0) return 0;
 
-				return 1 + Length(str.Substring(1));
-			}
+		return 1 + Length(str.Substring(1));
+	}
     }
 }
