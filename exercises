@@ -19,7 +19,10 @@
 16. create a function that takes a string and returns a string with space between characters
 17. create a function that repeats each character 'n' times
 18. create a function that takes a string of lowercase characters and returns that string reverse and capitalize
-19.
+19. create a function that takes a string and repeats the last character 'n' number of times
+20. create a function that takes an array of string and returns the words that are exactly four letters
+21. 
+
 
 
 
