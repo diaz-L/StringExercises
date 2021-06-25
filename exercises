@@ -1,0 +1,25 @@
+1. create a function that returns 'true' if a string is empty and 'false' other otherwise
+2. create a method that takes any given number of string and concatenates them
+3. write a function that returns the length of a string. Make your function recursive.
+4. write a function that takes a string and returns it as an integer
+5. create a function that returns true if a string contains whitespaces
+6. create a funciton that adds a string to each member in an array
+   overload to use StringBuilder
+   measure elapsed time to perform task for both types
+7. write a function that validates whether two strings are identical. Make it case insensitive.
+8. create a function that takes two string and returns true if the first string ends with second string
+9. create a function that returns "lower" if all letters are lowercase, returns "upper" if all letters are uppercase,
+"mixed" for any mix of the two
+10. create a function that takes an array and string and returns the index of string
+11. create a function that takes a string and returns the number of words. The string will be a sentence.
+12. create a function that takes a character and string and returns the number of times the character is found in the string
+13. write a function that given a string returns the number of vowels contained within it
+14. create a function that returns 'true' if a string contains only uppercase or only lowercase letters
+15. create a function that takes a string and returns it in reverse order
+16. create a function that takes a string and returns a string with space between characters
+17. create a function that repeats each character 'n' times
+18. create a function that takes a string of lowercase characters and returns that string reverse and capitalize
+19.
+
+
+
