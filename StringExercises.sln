@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex19", "ex19\ex19.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex20", "ex20\ex20.csproj", "{0A43E278-8148-4248-9027-65B1C84F7F99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex21", "ex21\ex21.csproj", "{C164A907-4596-473A-9D6A-B04B0D246E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,5 +298,17 @@ Global
 		{0A43E278-8148-4248-9027-65B1C84F7F99}.Release|x64.Build.0 = Release|Any CPU
 		{0A43E278-8148-4248-9027-65B1C84F7F99}.Release|x86.ActiveCfg = Release|Any CPU
 		{0A43E278-8148-4248-9027-65B1C84F7F99}.Release|x86.Build.0 = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|x64.Build.0 = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|x64.ActiveCfg = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|x64.Build.0 = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C164A907-4596-473A-9D6A-B04B0D246E8F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
