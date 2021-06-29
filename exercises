@@ -27,7 +27,8 @@
 24. given a string, create a function to reverse the case. All lower-cased letters should be upper-cased, and vice versa.
 25. an isogram is a word that has no duplicate letters. Create a function that takes a string and returns either true or false depending on whether or not it's an "isogram". 
 26. create a function that takes two strings and returns either true or false depending on whether they're anagrams or not. Should be case insensitive.
-27.
+27. create a function that takes a string and returns the number of alphanumeric characters that occur more than once.
+28.
  
 
 
